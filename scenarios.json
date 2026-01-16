@@ -1136,6 +1136,16 @@
         "pattern": "Contrast Touch",
         "intensity": "3/10",
         "duration": "1m"
+      },
+      {
+        "text": "상대방의 얼굴에서 가장 아름다운 부분을 구체적으로 칭찬하세요. 어디가 어떻게 아름답고 사랑스러운지, 지금 당장 어떻게 하고 싶은지를요.",
+        "target": "얼굴",
+        "pattern": "대화",
+        "intensity": "1/10",
+        "duration": "30s",
+        "gender": "both",
+        "id": 100,
+        "level": 1
       }
     ],
     "level2Data": [
@@ -1582,7 +1592,7 @@
     ]
   },
   "meta": {
-    "version": 1,
-    "lastUpdated": "2026-01-16T05:20:08.172Z"
+    "version": 2,
+    "lastUpdated": "2026-01-16T06:03:55.371Z"
   }
 }
