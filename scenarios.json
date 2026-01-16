@@ -1146,6 +1146,216 @@
         "gender": "both",
         "id": 100,
         "level": 1
+      },
+      {
+        "text": "단단해진 남성의 귀두로 여성의 유두를 지그시 압박하며 원을 그리듯 비벼, 삽입 전의 마찰열을 극대화하세요.",
+        "target": "유두",
+        "pattern": "Glans Roll",
+        "intensity": "9/10",
+        "duration": "60s",
+        "gender": "male",
+        "id": 301,
+        "level": 3
+      },
+      {
+        "id": 119,
+        "level": 1,
+        "text": "상대의 등 뒤에서 어깨에 턱을 괴고, 목 옆선에 아주 가느다란 숨을 5초간 내뱉어 소름이 돋는 과정을 지켜보세요.",
+        "target": "목선",
+        "pattern": "Ghost Breath",
+        "intensity": "3/10",
+        "duration": "15s",
+        "gender": "both"
+      },
+      {
+        "id": 120,
+        "level": 1,
+        "text": "상대의 손바닥에 당신의 검지손가락으로 아주 천천히 '욕망'이라는 글자를 쓰고, 그가 그 의미를 깨달을 때까지 기다리세요.",
+        "target": "손바닥",
+        "pattern": "Skin Writing",
+        "intensity": "2/10",
+        "duration": "30s",
+        "gender": "both"
+      },
+      {
+        "id": 121,
+        "level": 1,
+        "text": "여성의 어깨뼈(견갑골) 사이를 검지손가락으로 선을 긋듯 천천히 내려가며 그녀가 몸을 떨 때까지 멈추지 마세요.",
+        "target": "등",
+        "pattern": "Spine Trace",
+        "intensity": "3/10",
+        "duration": "30s",
+        "gender": "male"
+      },
+      {
+        "id": 122,
+        "level": 1,
+        "text": "남성의 셔츠 깃 사이로 손가락을 밀어 넣어 그의 목뼈를 하나씩 만지며, 사냥감을 고르는 포식자처럼 행동하세요.",
+        "target": "목/뒷덜미",
+        "pattern": "Cervical Trace",
+        "intensity": "3/10",
+        "duration": "40s",
+        "gender": "female"
+      },
+      {
+        "id": 123,
+        "level": 1,
+        "text": "상대방의 그림자가 당신의 몸을 완전히 덮도록 서서, 단 1mm도 닿지 않은 채 오직 시선으로만 상대의 옷을 벗겨내듯 응시하세요.",
+        "target": "시각/공간",
+        "pattern": "Shadow Overlap",
+        "intensity": "2/10",
+        "duration": "1s",
+        "gender": "both"
+      },
+      {
+        "id": 124,
+        "level": 1,
+        "text": "서로의 엄지손가락 지문만을 맞대고 힘을 주어 누르며, 그 작은 지점에서 시작되는 박동에 집중하세요.",
+        "target": "손가락",
+        "pattern": "Print Connection",
+        "intensity": "2/10",
+        "duration": "30s",
+        "gender": "both"
+      },
+      {
+        "id": 125,
+        "level": 1,
+        "text": "상대의 옷 위로 심장 부근에 입술을 대고, 그 진동이 멈출 때까지 젖은 숨을 계속해서 불어넣으세요.",
+        "target": "심장",
+        "pattern": "Heart Puff",
+        "intensity": "3/10",
+        "duration": "45s",
+        "gender": "both"
+      },
+      {
+        "id": 126,
+        "level": 1,
+        "text": "여성의 복숭아뼈부터 종아리 라인을 따라 손등으로만 아주 천천히 쓸어 올리며 그녀의 하반신을 긴장시키세요.",
+        "target": "발목/종아리",
+        "pattern": "Ankle Rise",
+        "intensity": "3/10",
+        "duration": "1s",
+        "gender": "male"
+      },
+      {
+        "id": 127,
+        "level": 1,
+        "text": "남성의 팔뚝 힘줄이 가장 도드라진 곳을 당신의 혀끝으로 아주 살짝 찍어 누른 뒤 반응을 살피세요.",
+        "target": "팔뚝",
+        "pattern": "Tension Point",
+        "intensity": "4/10",
+        "duration": "20s",
+        "gender": "female"
+      },
+      {
+        "id": 128,
+        "level": 1,
+        "text": "상대방의 머리카락 향기를 맡으며 귓바퀴 가장자리를 손톱 끝으로 아주 미세하게 긁어내려 소름이 돋게 만드세요.",
+        "target": "귀",
+        "pattern": "Edge Scratch",
+        "intensity": "3/10",
+        "duration": "20s",
+        "gender": "both"
+      },
+      {
+        "id": 129,
+        "level": 1,
+        "text": "손목에 찬 금속 시계나 주얼리의 차가운 단면을 상대의 뜨거운 목선에 밀착시켜 온도의 충돌을 느끼게 하세요.",
+        "target": "목선",
+        "pattern": "Metallic Conflict",
+        "intensity": "2/10",
+        "duration": "30s",
+        "gender": "both"
+      },
+      {
+        "id": 130,
+        "level": 1,
+        "text": "상대의 눈앞에서 가느다란 펜이나 브러시 끝으로 공중에 선을 그리듯 움직이다가, 아주 가끔 입술 끝만 스치세요.",
+        "target": "입술",
+        "pattern": "Air Tracing",
+        "intensity": "1/10",
+        "duration": "45s",
+        "gender": "both"
+      },
+      {
+        "id": 131,
+        "level": 1,
+        "text": "서로의 숨소리가 완벽하게 일치할 때까지 아무 말 없이 서로의 가슴팍에 손을 얹고 고요한 박동을 공유하세요.",
+        "target": "가슴",
+        "pattern": "Sync Breath",
+        "intensity": "2/10",
+        "duration": "1s",
+        "gender": "both"
+      },
+      {
+        "id": 132,
+        "level": 1,
+        "text": "상대의 귓바퀴 뒤쪽 연약한 살결에 당신의 코끝을 대고, 숨을 들이마시는 행위만으로 상대의 체취를 갈구하세요.",
+        "target": "귀 뒤",
+        "pattern": "Olfactory Hunger",
+        "intensity": "3/10",
+        "duration": "40s",
+        "gender": "both"
+      },
+      {
+        "id": 133,
+        "level": 1,
+        "text": "차가운 물이 담긴 유리잔 표면의 결로를 손가락으로 닦아낸 뒤, 그 젖고 차가운 손가락으로 상대의 인중을 누르세요.",
+        "target": "인중",
+        "pattern": "Dewy Touch",
+        "intensity": "2/10",
+        "duration": "15s",
+        "gender": "both"
+      },
+      {
+        "id": 134,
+        "level": 1,
+        "text": "남성의 턱수염이나 짧은 머리카락의 거친 질감을 여성의 손바닥 안쪽에 비비며 야성적인 촉각을 전이시키세요.",
+        "target": "손바닥",
+        "pattern": "Rough Friction",
+        "intensity": "3/10",
+        "duration": "30s",
+        "gender": "male"
+      },
+      {
+        "id": 135,
+        "level": 1,
+        "text": "여성의 발목 스트랩이나 신발 라인을 따라 당신의 검지손가락을 아주 느리게 미끄러뜨리며 시각적 긴장을 높이세요.",
+        "target": "발목",
+        "pattern": "Ankle Slide",
+        "intensity": "2/10",
+        "duration": "45s",
+        "gender": "female"
+      },
+      {
+        "id": 136,
+        "level": 1,
+        "text": "상대의 등 뒤에서 허리 가장 가느다란 지점에 손을 대지 말고, 오직 당신의 무릎만 가볍게 밀착시켜 중심을 흔드세요.",
+        "target": "허리",
+        "pattern": "Knee Wedge",
+        "intensity": "3/10",
+        "duration": "20s",
+        "gender": "both"
+      },
+      {
+        "id": 137,
+        "level": 1,
+        "text": "서로의 이마를 맞댄 채로, 당신의 속눈썹이 상대의 뺨을 간지럽히도록 눈을 아주 천천히 깜빡이세요.",
+        "target": "뺨",
+        "pattern": "Butterfly Kiss",
+        "intensity": "1/10",
+        "duration": "40s",
+        "gender": "both"
+      },
+      {
+        "id": 138,
+        "level": 1,
+        "text": "상대의 무릎 위에 손을 얹고, 손가락 끝으로만 허벅지 바깥쪽 근육을 아주 느린 속도로 훑으며 위로 올라가세요.",
+        "target": "허벅지",
+        "pattern": "Slow Ascent",
+        "intensity": "3/10",
+        "duration": "30s",
+        "gender": "both"
       }
     ],
     "level2Data": [
@@ -1592,7 +1802,7 @@
     ]
   },
   "meta": {
-    "version": 2,
-    "lastUpdated": "2026-01-16T06:03:55.371Z"
+    "version": 4,
+    "lastUpdated": "2026-01-16T08:16:26.826Z"
   }
 }
