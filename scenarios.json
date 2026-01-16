@@ -1356,6 +1356,406 @@
         "intensity": "3/10",
         "duration": "30s",
         "gender": "both"
+      },
+      {
+        "id": 319,
+        "level": 3,
+        "text": "여성의 허벅지 안쪽 깊숙한 곳을 입술로 강하게 빨아들여 붉은 낙인을 새기고, 그곳에 뜨거운 콧김을 몰아쉬세요.",
+        "target": "허벅지 안쪽",
+        "pattern": "Inner Marking",
+        "intensity": "8/10",
+        "duration": "1s",
+        "gender": "male"
+      },
+      {
+        "id": 320,
+        "level": 3,
+        "text": "남성의 성기 끝부분을 손가락 끝으로 살짝 튕기며, 그가 신음할 때마다 그의 눈을 보며 비웃듯 미소 지으세요.",
+        "target": "성기",
+        "pattern": "Cruel Flick",
+        "intensity": "9/10",
+        "duration": "1s",
+        "gender": "female"
+      },
+      {
+        "id": 321,
+        "level": 3,
+        "text": "상대의 속옷을 아주 조금만 내린 뒤, 드러난 치골 라인에 당신의 뜨거운 혀를 대고 좌우로 길게 핥아 올리세요.",
+        "target": "치골",
+        "pattern": "Pubic Lick",
+        "intensity": "8/10",
+        "duration": "1s",
+        "gender": "both"
+      },
+      {
+        "id": 322,
+        "level": 3,
+        "text": "여성의 유두를 앞니로 가볍게 깨물어 세운 뒤, 그 주변을 혀로 정밀하게 회전시키며 그녀의 손을 당신의 머리에 얹게 하세요.",
+        "target": "가슴",
+        "pattern": "Nipple Circle",
+        "intensity": "9/10",
+        "duration": "2s",
+        "gender": "male"
+      },
+      {
+        "id": 323,
+        "level": 3,
+        "text": "남성의 고환 주위를 따뜻한 손바닥으로 감싸 쥐고, 다른 한 손으로는 그의 성기 기둥을 아주 느린 속도로 압박하며 올라가세요.",
+        "target": "성기",
+        "pattern": "Scrotum Cradle",
+        "intensity": "9/10",
+        "duration": "1s",
+        "gender": "female"
+      },
+      {
+        "id": 324,
+        "level": 3,
+        "text": "상대의 성기 주변에 당신의 타액을 충분히 묻힌 뒤, 공기가 닿아 차갑게 느껴질 때 다시 뜨거운 입술로 덮어버리세요.",
+        "target": "성기 주변",
+        "pattern": "Thermal Shock",
+        "intensity": "9/10",
+        "duration": "2s",
+        "gender": "both"
+      },
+      {
+        "id": 325,
+        "level": 3,
+        "text": "여성의 음부 바로 위 치골 근육을 엄지손가락으로 강하게 압박하며, 그녀가 허리를 뒤트는 반응을 시각적으로 즐기세요.",
+        "target": "치골 압박",
+        "pattern": "Pelvic Pressure",
+        "intensity": "8/10",
+        "duration": "1s",
+        "gender": "male"
+      },
+      {
+        "id": 326,
+        "level": 3,
+        "text": "남성을 눕히고 그 위에 올라타 성기 입구를 당신의 회음부로 지그시 누르며 그가 애원할 때까지 결합을 미루세요.",
+        "target": "성기 입구",
+        "pattern": "Seating Denial",
+        "intensity": "9/10",
+        "duration": "2s",
+        "gender": "female"
+      },
+      {
+        "id": 327,
+        "level": 3,
+        "text": "상대의 허벅지를 최대한 넓게 벌리게 하고 그 사이의 공간을 갈구하는 눈빛으로 쳐다보며 천천히 손을 뻗으세요.",
+        "target": "허벅지 안쪽",
+        "pattern": "Visual Hunger",
+        "intensity": "8/10",
+        "duration": "1s",
+        "gender": "both"
+      },
+      {
+        "id": 328,
+        "level": 3,
+        "text": "여성의 엉덩이 사이 골을 따라 혀를 깊게 밀어 넣어 위아래로 핥으며 그녀가 엉덩이를 움찔거리는 반응을 즐기세요.",
+        "target": "엉덩이",
+        "pattern": "Crack Lick",
+        "intensity": "9/10",
+        "duration": "1s",
+        "gender": "male"
+      },
+      {
+        "id": 329,
+        "level": 3,
+        "text": "남성의 귀 뒤쪽을 깨물며 동시에 그의 바지 안에 손을 넣어 성기의 끝부분만 엄지손가락으로 강하게 문지르세요.",
+        "target": "귀/성기",
+        "pattern": "Dual Stim",
+        "intensity": "9/10",
+        "duration": "1s",
+        "gender": "female"
+      },
+      {
+        "id": 330,
+        "level": 3,
+        "text": "상대방의 전신 피부를 혀로 가늘게 선을 긋듯 핥아 올리며 마지막 목적지는 성기가 되도록 서서히 접근하세요.",
+        "target": "전신",
+        "pattern": "Long Trail",
+        "intensity": "8/10",
+        "duration": "2s",
+        "gender": "both"
+      },
+      {
+        "id": 331,
+        "level": 3,
+        "text": "여성의 가슴을 한 손으로 모아 쥐고 그 사이 골에 당신의 얼굴을 묻은 채 좌우로 비비며 향기와 온기를 탐닉하세요.",
+        "target": "가슴",
+        "pattern": "Cleavage Nuzzle",
+        "intensity": "8/10",
+        "duration": "2s",
+        "gender": "male"
+      },
+      {
+        "id": 332,
+        "level": 3,
+        "text": "남성의 사타구니 라인을 손톱 끝으로 긁으며 올라가 그의 성기를 손바닥으로 감싸 쥐고 지그시 압박하세요.",
+        "target": "사타구니/성기",
+        "pattern": "Groin Scratch",
+        "intensity": "9/10",
+        "duration": "1s",
+        "gender": "female"
+      },
+      {
+        "id": 333,
+        "level": 3,
+        "text": "상대의 손가락 두 개를 당신의 입안에 깊숙이 넣고 진공 상태를 만들어 빨며, 동시에 상대의 성기를 강하게 움켜쥐세요.",
+        "target": "입안/성기",
+        "pattern": "Worship Grip",
+        "intensity": "9/10",
+        "duration": "1s",
+        "gender": "both"
+      },
+      {
+        "id": 334,
+        "level": 3,
+        "text": "여성의 속옷을 옆으로 살짝 비껴 내고, 노출된 성기 입구를 당신의 뜨거운 콧김으로 애태우며 천천히 혀를 내미세요.",
+        "target": "음부",
+        "pattern": "Edge Tease",
+        "intensity": "9/10",
+        "duration": "2s",
+        "gender": "male"
+      },
+      {
+        "id": 335,
+        "level": 3,
+        "text": "남성의 성기 뿌리 부분을 손가락으로 꽉 쥐어 피가 몰리게 만든 뒤, 끝부분에 고인 액체를 혀끝으로 핥아내세요.",
+        "target": "성기",
+        "pattern": "Base Grip",
+        "intensity": "9/10",
+        "duration": "1s",
+        "gender": "female"
+      },
+      {
+        "id": 336,
+        "level": 3,
+        "text": "상대의 전신을 입술로 훑어 내려가며 성기 바로 위 치골 부위에 강한 키스를 남겨 영역을 표시하세요.",
+        "target": "치골",
+        "pattern": "Pubic Mark",
+        "intensity": "8/10",
+        "duration": "1s",
+        "gender": "both"
+      },
+      {
+        "id": 337,
+        "level": 3,
+        "text": "여성의 치골 부위를 당신의 성기로 가볍게 문지르며 삽입 직전의 마찰열을 극대화하세요.",
+        "target": "치골/음부",
+        "pattern": "Dry Grind",
+        "intensity": "9/10",
+        "duration": "1s",
+        "gender": "male"
+      },
+      {
+        "id": 338,
+        "level": 3,
+        "text": "서로의 하체를 강하게 결착시킨 채, 상대의 귓가에 젖은 숨소리로 '원해?'라고 단 한 마디만 내뱉으세요.",
+        "target": "전신 결합",
+        "pattern": "Point Blank",
+        "intensity": "9/10",
+        "duration": "30s",
+        "gender": "both"
+      },
+      {
+        "id": 219,
+        "level": 2,
+        "text": "상대의 입안에 당신의 타액을 천천히 흘려보내고, 그것을 상대가 삼키는 과정을 목 근육의 움직임을 통해 감상하세요.",
+        "target": "입안",
+        "pattern": "Saliva Share",
+        "intensity": "6/10",
+        "duration": "1s",
+        "gender": "both"
+      },
+      {
+        "id": 220,
+        "level": 2,
+        "text": "여성의 배꼽 주위에 당신의 침으로 원을 그린 뒤, 그것이 마르기 전에 혀로 거칠게 닦아내듯 핥으세요.",
+        "target": "복부",
+        "pattern": "Circle Lick",
+        "intensity": "6/10",
+        "duration": "45s",
+        "gender": "male"
+      },
+      {
+        "id": 221,
+        "level": 2,
+        "text": "남성의 목젖을 당신의 입술로 머금고, 그가 침을 삼킬 때 느껴지는 진동을 당신의 혀로 막아세우세요.",
+        "target": "목젖",
+        "pattern": "Adam's Apple Lock",
+        "intensity": "6/10",
+        "duration": "30s",
+        "gender": "female"
+      },
+      {
+        "id": 222,
+        "level": 2,
+        "text": "상대의 양손을 머리 위로 고정하고, 당신의 머리카락을 그의 가슴과 배 위에 흩뿌리며 간지러운 자극을 주어보세요.",
+        "target": "상체",
+        "pattern": "Hair Tease",
+        "intensity": "5/10",
+        "duration": "1s",
+        "gender": "both"
+      },
+      {
+        "id": 223,
+        "level": 2,
+        "text": "여성의 귀 뒤쪽부터 어깨선까지 혀로 긴 길을 내어 당신의 흔적을 남기고, 그 길을 따라 가벼운 소름을 즐기세요.",
+        "target": "목/어깨",
+        "pattern": "Wet Pathway",
+        "intensity": "6/10",
+        "duration": "1s",
+        "gender": "male"
+      },
+      {
+        "id": 224,
+        "level": 2,
+        "text": "남성의 귓구멍에 당신의 혀를 깊게 밀어 넣고, 소리가 날 정도로 강하게 빨아들여 그의 뇌리에 직접적인 자극을 보내세요.",
+        "target": "귀 내부",
+        "pattern": "Ear Vacuum",
+        "intensity": "7/10",
+        "duration": "30s",
+        "gender": "female"
+      },
+      {
+        "id": 225,
+        "level": 2,
+        "text": "키스 도중 상대의 아랫입술을 살짝 깨물어 고통과 쾌락의 경계에 서게 한 뒤, 즉시 혀로 그 자리를 달래주세요.",
+        "target": "입술",
+        "pattern": "Bite & Heal",
+        "intensity": "6/10",
+        "duration": "45s",
+        "gender": "both"
+      },
+      {
+        "id": 226,
+        "level": 2,
+        "text": "여성의 허리 가장 가느다란 지점을 양손으로 강하게 움켜쥐어 당신의 몸 쪽으로 잡아당겨 뼈가 맞닿게 하세요.",
+        "target": "골반/허리",
+        "pattern": "Bone Crush",
+        "intensity": "6/10",
+        "duration": "30s",
+        "gender": "male"
+      },
+      {
+        "id": 227,
+        "level": 2,
+        "text": "입술을 떼지 않은 채로 상대의 입안에 고인 타액을 당신의 혀로 모두 훔쳐내어 삼키는 과정을 반복하세요.",
+        "target": "입안",
+        "pattern": "Saliva Siphon",
+        "intensity": "6/10",
+        "duration": "1m 30s",
+        "gender": "both"
+      },
+      {
+        "id": 228,
+        "level": 2,
+        "text": "여성의 유두를 입술로 머금은 상태에서, 당신의 턱끝이나 코끝으로 가슴 하단을 강하게 문질러 자극을 분산시키세요.",
+        "target": "가슴",
+        "pattern": "Dual Friction",
+        "intensity": "6/10",
+        "duration": "1s",
+        "gender": "male"
+      },
+      {
+        "id": 229,
+        "level": 2,
+        "text": "남성의 사타구니 안쪽 연약한 살점을 당신의 발가락 사이로 부드럽게 끼워 마찰하며 무게감 있는 압박을 가하세요.",
+        "target": "고환/사타구니",
+        "pattern": "Toe Cradle",
+        "intensity": "7/10",
+        "duration": "1s",
+        "gender": "female"
+      },
+      {
+        "id": 230,
+        "level": 2,
+        "text": "벨트 가죽이나 거친 데님 소재로 상대의 예민한 살결을 가볍게 긁어내려, 피부 위로 붉은 홍조가 오르게 하세요.",
+        "target": "전신",
+        "pattern": "Texture Scratch",
+        "intensity": "5/10",
+        "duration": "30s",
+        "gender": "both"
+      },
+      {
+        "id": 231,
+        "level": 2,
+        "text": "상대의 입술에 당신의 손가락 세 개를 깊숙이 밀어 넣고, 당신의 혀로는 상대의 손목 안쪽 맥박 지점을 핥으세요.",
+        "target": "구강/손목",
+        "pattern": "Cross Stim",
+        "intensity": "7/10",
+        "duration": "1s",
+        "gender": "both"
+      },
+      {
+        "id": 232,
+        "level": 2,
+        "text": "여성의 둔부(엉덩이)를 양손으로 강하게 움켜쥐고, 당신의 무릎으로 그녀의 회음부를 지그시 눌러 고정하세요.",
+        "target": "회음부",
+        "pattern": "Perineal Press",
+        "intensity": "7/10",
+        "duration": "30s",
+        "gender": "male"
+      },
+      {
+        "id": 233,
+        "level": 2,
+        "text": "차가운 목걸이 펜던트를 입에 물고 상대의 복부 배꼽 주변을 굴리며, 금속의 냉기와 혀의 열기를 교차시키세요.",
+        "target": "복부",
+        "pattern": "Metallic Tongue",
+        "intensity": "6/10",
+        "duration": "1s",
+        "gender": "both"
+      },
+      {
+        "id": 234,
+        "level": 2,
+        "text": "상대의 겨드랑이나 옆구리처럼 예민한 부위를 당신의 코끝으로 가볍게 찌르며 그곳에서 피어오르는 체취에 몰입하세요.",
+        "target": "옆구리",
+        "pattern": "Nuzzle Scent",
+        "intensity": "5/10",
+        "duration": "45s",
+        "gender": "both"
+      },
+      {
+        "id": 235,
+        "level": 2,
+        "text": "여성의 허벅지 안쪽, 속옷 라인과 닿기 직전의 연약한 살점을 입술로 아주 살짝만 깨물어보세요.",
+        "target": "허벅지 안쪽",
+        "pattern": "Soft Nibble",
+        "intensity": "7/10",
+        "duration": "30s",
+        "gender": "male"
+      },
+      {
+        "id": 236,
+        "level": 2,
+        "text": "남성의 복근 라인을 따라 손톱을 세워 세로로 길게 긁어내린 후, 배꼽 주변에 뜨거운 숨을 몰아쉬세요.",
+        "target": "복부",
+        "pattern": "Abdominal Trace",
+        "intensity": "6/10",
+        "duration": "45s",
+        "gender": "female"
+      },
+      {
+        "id": 237,
+        "level": 2,
+        "text": "상대의 뺨을 두 손으로 감싸고 입안 구석구석을 탐험하듯 키스하며, 서로의 타액이 입가로 흘러내릴 때까지 멈추지 마세요.",
+        "target": "입안",
+        "pattern": "Drench Kiss",
+        "intensity": "6/10",
+        "duration": "2s",
+        "gender": "both"
+      },
+      {
+        "id": 238,
+        "level": 2,
+        "text": "여성의 귓볼을 입술로 가볍게 깨물며 손으로는 그녀의 허벅지 안쪽 가장 연약한 지점을 부드럽게 압박하세요.",
+        "target": "귀/허벅지",
+        "pattern": "Bite & Press",
+        "intensity": "7/10",
+        "duration": "1s",
+        "gender": "male"
       }
     ],
     "level2Data": [
@@ -1802,7 +2202,7 @@
     ]
   },
   "meta": {
-    "version": 4,
-    "lastUpdated": "2026-01-16T08:16:26.826Z"
+    "version": 6,
+    "lastUpdated": "2026-01-16T08:27:45.208Z"
   }
 }
