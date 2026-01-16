@@ -1596,8 +1596,8 @@
         "거울": ["시각적으로 보여주기"],
         "베개(압박용)": ["체중 실어 짓누르기", "감싸서 가두기"]
       },
-      "unrestrictedMeans": ["손가락", "혀끝", "입술", "따뜻한 숨결"],
-      "unrestrictedActions": ["천천히 가로지르기", "지긋이 누르기", "온기/냉기 전하기"]
+      "unrestrictedMeans": [],
+      "unrestrictedActions": []
     }
   },
   "meta": {
