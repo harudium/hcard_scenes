@@ -958,195 +958,505 @@
   "levels": {
     "level1Data": [
       {
-        "id": 101,
+        "id": 1001,
         "level": 1,
-        "gender": "both",
-        "text": "상대의 맥박이 뛰는 손목 안쪽에 입술을 천천히 내리누르며, 그 박동이 입술로 전해질 때까지 멈춰 있으세요",
-        "target": "손목",
-        "pattern": "Pulse Resonance",
-        "intensity": "2/10",
-        "duration": "30s"
-      },
-      {
-        "id": 102,
-        "level": 1,
-        "gender": "both",
-        "text": "귓바퀴를 따라 콧날로 선을 그리듯 훑어내리며, 당신의 뜨거운 숨결이 상대의 귓속 깊숙이 고이게 하세요",
-        "target": "귀",
-        "pattern": "Scent Trail",
+        "gender": "common",
+        "text": "{c, actor}는 {c, partner}님의 얼굴을 마주한 채 5초 동안 침묵으로 눈을 바라보며 숨결이 닿는 거리까지 천천히 다가가세요",
+        "target": "눈맞춤",
+        "pattern": "Silent Gaze",
         "intensity": "3/10",
-        "duration": "20s"
+        "duration": "5s"
       },
-      {
-        "id": 103,
+{
+        "id": 1002,
         "level": 1,
-        "gender": "both",
-        "text": "상대의 눈을 10초간 응시하다가 시선을 천천히 입술로 옮기세요. 당장이라도 삼킬 듯한 갈증을 눈빛에 담아내세요",
-        "target": "시선",
-        "pattern": "Hunter's Gaze",
-        "intensity": "2/10",
+        "gender": "common",
+        "text": "{c, actor}는 손끝으로 {c, partner}님의 턱선을 따라 허공 위에서 천천히 그리며 긴장감을 만들어주세요",
+        "target": "턱선",
+        "pattern": "Hover Trace",
+        "intensity": "3/10",
         "duration": "10s"
-      },
-      {
-        "id": 104,
+},
+{
+        "id": 1003,
         "level": 1,
-        "gender": "female",
-        "text": "남성의 넥타이를 손가락에 감아 당신 쪽으로 끌어당기며, 코끝이 닿기 직전의 거리에서 숨을 멈추고 그의 인내심을 시험하세요",
-        "target": "목/거리",
-        "pattern": "Tension Pull",
-        "intensity": "3/10",
-        "duration": "20s"
-      },
-      {
-        "id": 105,
-        "level": 1,
-        "gender": "male",
-        "text": "여성의 머리카락을 한쪽으로 몰아 하얀 목선을 드러낸 뒤, 뒷덜미의 미세한 잔털을 손가락 끝으로 아주 가늘게 간지럽히세요",
-        "target": "뒷덜미",
-        "pattern": "Hair Sweep",
-        "intensity": "2/10",
-        "duration": "30s"
-      },
-      {
-        "id": 106,
-        "level": 1,
-        "gender": "both",
-        "text": "상대의 쇄골 파인 곳에 당신의 턱이나 뺨을 비비며, 살과 살이 맞닿을 때 일어나는 미세한 마찰음에 집중하세요",
-        "target": "쇄골",
-        "pattern": "Skin Friction",
-        "intensity": "3/10",
-        "duration": "45s"
-      },
-      {
-        "id": 107,
-        "level": 1,
-        "gender": "both",
-        "text": "상대의 손가락 끝을 당신의 입술로 살짝 건드리기만 한 채, 서로의 체온이 교환되는 정적인 순간을 유지하세요",
-        "target": "손가락",
-        "pattern": "Static Contact",
-        "intensity": "2/10",
-        "duration": "30s"
-      },
-      {
-        "id": 108,
-        "level": 1,
-        "gender": "female",
-        "text": "남성의 가슴팍에 손을 얹고 심장 박동을 느끼며, 손톱 끝으로 셔츠 단추 사이의 속살을 아주 가볍게 긁어내리세요",
-        "target": "가슴",
-        "pattern": "Heartbeat Trace",
-        "intensity": "3/10",
-        "duration": "30s"
-      },
-      {
-        "id": 109,
-        "level": 1,
-        "gender": "male",
-        "text": "여성의 허리 가장 가느다란 지점에 손을 올리고, 엄지손가락으로 척추 하단을 아주 천천히 원을 그리며 감각을 깨우세요",
-        "target": "허리",
-        "pattern": "Lumbosacral Circle",
-        "intensity": "3/10",
-        "duration": "40s"
-      },
-      {
-        "id": 110,
-        "level": 1,
-        "gender": "both",
-        "text": "상대의 무릎 위에 손을 얹고, 손가락 끝으로만 허벅지 바깥쪽의 근육을 아주 느린 속도로 훑으며 위로 올라가세요",
-        "target": "허벅지",
-        "pattern": "Slow Ascent",
-        "intensity": "3/10",
-        "duration": "30s"
-      },
-      {
-        "id": 111,
-        "level": 1,
-        "gender": "both",
-        "text": "서로의 이마를 맞대고 숨소리를 공유하세요. 상대의 숨이 당신의 입안으로 들어올 때 그것을 깊게 들이마시세요",
-        "target": "얼굴",
-        "pattern": "Breath Sharing",
-        "intensity": "2/10",
-        "duration": "1m"
-      },
-      {
-        "id": 112,
-        "level": 1,
-        "gender": "male",
-        "text": "여성의 어깨뼈(견갑골) 사이를 검지손가락으로 선을 긋듯 천천히 내려가며 그녀가 몸을 떨 때까지 멈추지 마세요",
-        "target": "등",
-        "pattern": "Spine Trace",
-        "intensity": "3/10",
-        "duration": "30s"
-      },
-      {
-        "id": 113,
-        "level": 1,
-        "gender": "female",
-        "text": "남성의 귓볼 근처에 코를 대고 그의 체취를 깊게 들이마신 뒤, 아주 짧고 뜨거운 숨을 귓구멍에 불어넣으세요",
-        "target": "귀",
-        "pattern": "Hot Puff",
-        "intensity": "3/10",
-        "duration": "15s"
-      },
-      {
-        "id": 114,
-        "level": 1,
-        "gender": "both",
-        "text": "상대의 손등 위 뼈 사이 골을 손가락 끝으로 부드럽게 지압하며, 시선은 절대 떼지 말고 갈망을 표현하세요",
-        "target": "손",
-        "pattern": "Knuckle Pressure",
-        "intensity": "2/10",
-        "duration": "45s"
-      },
-      {
-        "id": 115,
-        "level": 1,
-        "gender": "both",
-        "text": "서로의 발가락 끝을 맞대고 문지르며, 가장 말단에서부터 전해지는 찌릿한 전기 신호를 온몸으로 느껴보세요",
-        "target": "발",
-        "pattern": "Toe Friction",
-        "intensity": "2/10",
-        "duration": "1m"
-      },
-      {
-        "id": 116,
-        "level": 1,
-        "gender": "male",
-        "text": "여성의 목선 옆, 경동맥이 흐르는 지점에 엄지손가락을 대고 피의 흐름을 느끼며 다른 손으로는 그녀의 골반을 잡으세요",
-        "target": "목/골반",
-        "pattern": "Pulse Grip",
+        "gender": "common",
+        "text": "{c, actor}는 {c, partner}님의 귀 근처에 입술을 아주 가까이 대고 아무 말 없이 3초간 머물러 뜨거운 호흡만 전해주세요",
+        "target": "귀 주변",
+        "pattern": "Warm Breath",
         "intensity": "4/10",
-        "duration": "30s"
-      },
-      {
-        "id": 117,
+        "duration": "3s"
+},
+{
+        "id": 1004,
         "level": 1,
-        "gender": "female",
-        "text": "남성의 팔뚝 근육을 손바닥으로 쓸어내리며 힘줄의 굴곡을 손가락 끝으로 하나하나 음미하듯 따라가세요",
-        "target": "팔",
-        "pattern": "Tendon Trace",
+        "gender": "common",
+        "text": "{c, actor}는 손바닥을 {c, partner}님의 허리선 가까이에 가져가되 절대 닿지 말고, 살짝 스쳐 지나가듯 움직여 기대감을 높이세요",
+        "target": "허리",
+        "pattern": "Hover Curve",
         "intensity": "3/10",
-        "duration": "45s"
-      },
-      {
-        "id": 118,
+        "duration": "10s"
+},
+{
+        "id": 1005,
         "level": 1,
-        "gender": "both",
-        "text": "상대방의 옷깃을 아주 조금만 흐트러뜨린 뒤, 드러난 살결 위에 당신의 차가운 손가락과 뜨거운 숨결을 번갈아 닿게 하세요",
-        "target": "어깨/가슴",
-        "pattern": "Contrast Touch",
+        "gender": "common",
+        "text": "{c, actor}는 {c, partner}님의 이름을 가장 낮은 목소리로 천천히 한 번만 불러주세요",
+        "target": "감각자극",
+        "pattern": "Name Whisper",
+        "intensity": "2/10",
+        "duration": "5s"
+},
+{
+        "id": 1006,
+        "level": 1,
+        "gender": "common",
+        "text": "{c, actor}는 손가락을 {c, partner}님의 입술 가까이에 가져가고, 닿을 듯 말 듯 1cm 거리에서 천천히 움직여 긴장감을 주세요",
+        "target": "입술 주변",
+        "pattern": "Lip Tease",
+        "intensity": "4/10",
+        "duration": "8s"
+},
+{
+        "id": 1007,
+        "level": 1,
+        "gender": "common",
+        "text": "{c, actor}는 몸을 가까이하여 {c, partner}님의 목 아래로 따뜻한 숨을 불어넣고 반응을 지켜보세요",
+        "target": "목 아래",
+        "pattern": "Breath Tease",
+        "intensity": "4/10",
+        "duration": "5s"
+},
+{
+        "id": 1008,
+        "level": 1,
+        "gender": "common",
+        "text": "{c, actor}는 {c, partner}님의 손목 안쪽에 자신의 손을 살짝 겹친 뒤, 낮은 속삭임으로 ‘지금 어때?’라고 물어보세요",
+        "target": "손목",
+        "pattern": "Pulse Whisper",
         "intensity": "3/10",
-        "duration": "1m"
-      },
-      {
-        "text": "상대방의 얼굴에서 가장 아름다운 부분을 구체적으로 칭찬하세요. 어디가 어떻게 아름답고 사랑스러운지, 어떻게 하고 싶은지를요",
+        "duration": "7s"
+},
+{
+        "id": 1009,
+        "level": 1,
+        "gender": "common",
+        "text": "{c, actor}는 이마를 {c, partner}님에게 살짝 대고 잠시 눈을 감으며 서로의 호흡을 맞춰보세요",
+        "target": "이마",
+        "pattern": "Forehead Touch",
+        "intensity": "2/10",
+        "duration": "6s"
+},
+{
+        "id": 1010,
+        "level": 1,
+        "gender": "common",
+        "text": "{c, actor}는 {c, partner}님의 옷깃이나 머리카락을 정리해주면서 은근히 얼굴 방향을 자기 쪽으로 유도하세요",
+        "target": "얼굴 방향",
+        "pattern": "Guide Touch",
+        "intensity": "3/10",
+        "duration": "5s"
+},
+{
+        "id": 1011,
+        "level": 1,
+        "gender": "common",
+        "text": "{c, actor}는 서로 거의 닿을 듯한 거리에서 입술 높이를 천천히 맞추고 절대 입을 맞추지 않은 채 5초 정지하세요",
+        "target": "입술",
+        "pattern": "Near Kiss",
+        "intensity": "5/10",
+        "duration": "5s"
+},
+{
+        "id": 1012,
+        "level": 1,
+        "gender": "common",
+        "text": "{c, actor}는 손가락으로 {c, partner}님의 등 위를 허공에서 따라 그리며 올라갔다 내려오는 움직임을 반복하세요",
+        "target": "등",
+        "pattern": "Air Stroke",
+        "intensity": "3/10",
+        "duration": "10s"
+},
+{
+        "id": 1013,
+        "level": 1,
+        "gender": "common",
+        "text": "{c, actor}는 {c, partner}님의 허벅지 바깥쪽에 아주 살짝 손등을 스치며 지나가세요",
+        "target": "허벅지",
+        "pattern": "Side Brush",
+        "intensity": "4/10",
+        "duration": "5s"
+},
+{
+        "id": 1014,
+        "level": 1,
+        "gender": "common",
+        "text": "{c, actor}는 입술을 사용하지 않고 {c, partner}님의 귀에 숨만 조용히 불어넣으세요",
+        "target": "귀",
+        "pattern": "Breath Tease",
+        "intensity": "4/10",
+        "duration": "5s"
+},
+{
+        "id": 1015,
+        "level": 1,
+        "gender": "common",
+        "text": "{c, actor}는 살짝 낮은 목소리로 {c, partner}님에게 오늘 가장 듣고 싶은 말이 무엇인지 속삭이게 유도하세요",
+        "target": "귀",
+        "pattern": "Prompt Whisper",
+        "intensity": "3/10",
+        "duration": "7s"
+},
+{
+        "id": 1016,
+        "level": 1,
+        "gender": "common",
+        "text": "{c, actor}는 자신의 손을 {c, partner}님의 손 위에 올리고 손가락 하나하나를 아주 느리게 따라가세요",
+        "target": "손",
+        "pattern": "Slow Trace",
+        "intensity": "3/10",
+        "duration": "10s"
+},
+{
+        "id": 1017,
+        "level": 1,
+        "gender": "common",
+        "text": "{c, actor}는 몸을 가까이 붙여 {c, partner}님에게 자신의 심장 박동이 전달되도록 가슴 부분을 천천히 맞대세요",
+        "target": "가슴",
+        "pattern": "Heartbeat Sync",
+        "intensity": "4/10",
+        "duration": "8s"
+},
+{
+        "id": 1018,
+        "level": 1,
+        "gender": "common",
+        "text": "{c, actor}는 {c, partner}님 바로 옆에서 어깨나 팔에 거의 닿는 거리에서 움직여 은근한 마찰감을 느끼게 하세요",
+        "target": "어깨",
+        "pattern": "Near Contact",
+        "intensity": "3/10",
+        "duration": "6s"
+},
+{
+        "id": 1019,
+        "level": 1,
+        "gender": "common",
+        "text": "{c, actor}는 {c, partner}님의 입술을 손가락으로 가볍게 가리키며 ‘지금 이 순간 어떤 느낌이야?’라고 낮은 목소리로 말하세요",
+        "target": "입술",
+        "pattern": "Lip Prompt",
+        "intensity": "3/10",
+        "duration": "6s"
+},
+{
+        "id": 1020,
+        "level": 1,
+        "gender": "common",
+        "text": "{c, actor}는 손가락을 {c, partner}님의 쇄골 가까이에 가져갔다가 천천히 목 방향으로 움직이며 닿을 듯 말 듯 스치세요",
+        "target": "쇄골",
+        "pattern": "Hover Stroke",
+        "intensity": "4/10",
+        "duration": "8s"
+},
+{
+        "id": 1021,
+        "level": 1,
+        "gender": "common",
+        "text": "{c, actor}는 서로 아주 가까이 서서 엉덩이 혹은 골반 부위가 닿기 직전까지만 이동해 정지하세요",
+        "target": "골반",
+        "pattern": "Near Grind",
+        "intensity": "5/10",
+        "duration": "5s"
+},
+{
+        "id": 1022,
+        "level": 1,
+        "gender": "common",
+        "text": "{c, actor}는 숨을 들이마시고 내쉬는 타이밍을 {c, partner}님과 맞추며 몸 전체의 리듬을 동일하게 만들어보세요",
+        "target": "호흡",
+        "pattern": "Breath Sync",
+        "intensity": "3/10",
+        "duration": "10s"
+},
+{
+        "id": 1023,
+        "level": 1,
+        "gender": "common",
+        "text": "{c, actor}는 {c, partner}님의 머리카락을 손끝으로 살짝 잡아올리며 목선을 드러내 주세요",
+        "target": "머리카락",
+        "pattern": "Hair Lift",
+        "intensity": "4/10",
+        "duration": "6s"
+},
+{
+        "id": 1024,
+        "level": 1,
+        "gender": "common",
+        "text": "{c, actor}는 입술을 사용하지 않고 {c, partner}님의 뺨 가까이에서 따뜻한 숨만 흘려보내세요",
+        "target": "뺨",
+        "pattern": "Warm Breath",
+        "intensity": "3/10",
+        "duration": "5s"
+},
+{
+        "id": 1025,
+        "level": 1,
+        "gender": "common",
+        "text": "{c, actor}는 허벅지와 골반 사이의 공간에 손을 가져가되 절대 닿지 않고 머물러 긴장만 올리세요",
+        "target": "허벅지",
+        "pattern": "Pause Tease",
+        "intensity": "5/10",
+        "duration": "8s"
+},
+{
+        "id": 1026,
+        "level": 1,
+        "gender": "common",
+        "text": "{c, actor}는 입술 높이를 천천히 {c, partner}님의 목·턱·코 방향으로 이동하며 입맞춤 직전의 망설임을 연출하세요",
+        "target": "입술",
+        "pattern": "Kiss Hover",
+        "intensity": "5/10",
+        "duration": "7s"
+},
+{
+        "id": 1027,
+        "level": 1,
+        "gender": "common",
+        "text": "{c, actor}는 손바닥을 {c, partner}님의 등 아래 허리 근처로 가져가 천천히 곡선을 따라 올라오게 하세요",
+        "target": "등",
+        "pattern": "Curve Lift",
+        "intensity": "4/10",
+        "duration": "10s"
+},
+{
+        "id": 1028,
+        "level": 1,
+        "gender": "common",
+        "text": "{c, actor}는 {c, partner}님 옆에서 손가락으로 공중에 ‘만지고 싶은 곳’의 윤곽을 스치듯 그리세요",
+        "target": "전신",
+        "pattern": "Air Desire",
+        "intensity": "3/10",
+        "duration": "8s"
+},
+{
+        "id": 1029,
+        "level": 1,
+        "gender": "common",
+        "text": "{c, actor}는 상대의 몸 냄새가 가장 잘 느껴지는 목덜미 쪽에 코를 천천히 가져가 향을 맡고 감정 한마디를 말하세요",
+        "target": "목덜미",
+        "pattern": "Scent Kiss",
+        "intensity": "4/10",
+        "duration": "7s"
+},
+{
+        "id": 1030,
+        "level": 1,
+        "gender": "common",
+        "text": "{c, actor}는 손가락 끝으로 {c, partner}님의 옷 위 가슴선 위쪽을 공중에서만 따라 그리며 상상 자극을 주세요",
+        "target": "가슴 위",
+        "pattern": "Air Curve",
+        "intensity": "5/10",
+        "duration": "8s"
+},
+{
+        "id": 1031,
+        "level": 1,
+        "gender": "common",
+        "text": "{c, actor}는 {c, partner}님의 허리를 스칠 듯 가까이 이동해 골반에 닿기 직전 압박을 주고 3초 정지하세요",
+        "target": "골반",
+        "pattern": "Soft Press",
+        "intensity": "5/10",
+        "duration": "3s"
+},
+{
+        "id": 1032,
+        "level": 1,
+        "gender": "common",
+        "text": "{c, actor}는 손가락을 {c, partner}님의 뒤통수 가까이에 가져가 머리카락을 살짝 잡아올리고 손끝으로 목선을 타고 내려오세요",
+        "target": "목선",
+        "pattern": "Neck Trail",
+        "intensity": "4/10",
+        "duration": "8s"
+},
+{
+        "id": 1033,
+        "level": 1,
+        "gender": "common",
+        "text": "{c, actor}는 서로 입술을 아주 가까이 둔 채 일부러 방향을 약간 비껴가며 긴장감을 유지하세요",
+        "target": "입술",
+        "pattern": "Almost Kiss",
+        "intensity": "5/10",
+        "duration": "6s"
+},
+{
+        "id": 1034,
+        "level": 1,
+        "gender": "common",
+        "text": "{c, actor}는 가볍게 {c, partner}님의 손목을 잡아 손등을 입술 가까이 가져가고 숨으로만 감각을 전달하세요",
+        "target": "손목",
+        "pattern": "Heat Pulse",
+        "intensity": "4/10",
+        "duration": "6s"
+},
+{
+        "id": 1035,
+        "level": 1,
+        "gender": "common",
+        "text": "{c, actor}는 허리를 잡을 듯이 가까이 가져가되 절대 닿지 않고 빈 공간의 열기만 은근히 전달하세요",
+        "target": "허리",
+        "pattern": "Gap Heat",
+        "intensity": "5/10",
+        "duration": "8s"
+},
+{
+        "id": 1036,
+        "level": 1,
+        "gender": "common",
+        "text": "{c, actor}는 {c, partner}님의 허벅지와 골반 중간 구역에 손을 가져가 머물며 ‘여기 만져도 돼?’라고 속삭이세요",
+        "target": "허벅지",
+        "pattern": "Permission Prompt",
+        "intensity": "5/10",
+        "duration": "7s"
+},
+{
+        "id": 1037,
+        "level": 1,
+        "gender": "common",
+        "text": "{c, actor}는 손가락 끝으로 {c, partner}님의 팔 안쪽을 천천히 따라 올라가며 감각 민감도를 높이세요",
+        "target": "팔 안쪽",
+        "pattern": "Inner Stroke",
+        "intensity": "4/10",
+        "duration": "10s"
+},
+{
+        "id": 1038,
+        "level": 1,
+        "gender": "common",
+        "text": "{c, actor}는 입술로 {c, partner}님의 귀 바로 뒤 머리카락 아래 지점을 스칠 듯 접근해 천천히 숨을 흘리세요",
+        "target": "귀 뒤",
+        "pattern": "Ear Tease",
+        "intensity": "5/10",
+        "duration": "6s"
+},
+{
+        "id": 1039,
+        "level": 1,
+        "gender": "common",
+        "text": "{c, actor}는 이마·코·턱 순으로 얼굴 여러 부분을 코끝으로 살짝 건드리며 은근한 접촉을 이어가세요",
         "target": "얼굴",
-        "pattern": "대화",
-        "intensity": "1/10",
-        "duration": "30s",
-        "gender": "both",
-        "id": 100,
-        "level": 1
-      }
+        "pattern": "Nose Trail",
+        "intensity": "4/10",
+        "duration": "8s"
+},
+{
+        "id": 1040,
+        "level": 1,
+        "gender": "common",
+        "text": "{c, actor}는 {c, partner}님의 손가락을 잡고 자기 입술 근처까지 천천히 가져가 무엇을 원하듯 멈추세요",
+        "target": "손가락",
+        "pattern": "Desire Signal",
+        "intensity": "4/10",
+        "duration": "6s"
+},
+{
+        "id": 1041,
+        "level": 1,
+        "gender": "common",
+        "text": "{c, actor}는 뒤에서 가까이 서서 {c, partner}님의 허리에 손을 올릴 듯 말 듯 맴돌며 체온을 전달하세요",
+        "target": "허리",
+        "pattern": "Back Tease",
+        "intensity": "5/10",
+        "duration": "7s"
+},
+{
+        "id": 1042,
+        "level": 1,
+        "gender": "common",
+        "text": "{c, actor}는 목 뒤에 자신의 손을 가져가 가볍게 감싸듯 머물며 ‘지금 너무 좋아’라고 속삭이세요",
+        "target": "목 뒤",
+        "pattern": "Neck Hold",
+        "intensity": "4/10",
+        "duration": "7s"
+},
+{
+        "id": 1043,
+        "level": 1,
+        "gender": "common",
+        "text": "{c, actor}는 한 손으로 {c, partner}님의 턱을 살짝 받치며 얼굴을 천천히 자신의 방향으로 돌리세요",
+        "target": "턱",
+        "pattern": "Face Guide",
+        "intensity": "3/10",
+        "duration": "6s"
+},
+{
+        "id": 1044,
+        "level": 1,
+        "gender": "common",
+        "text": "{c, actor}는 다리를 자연스럽게 {c, partner}님과 스치게 움직이며 골반 높이를 맞추세요",
+        "target": "다리",
+        "pattern": "Leg Brush",
+        "intensity": "4/10",
+        "duration": "8s"
+},
+{
+        "id": 1045,
+        "level": 1,
+        "gender": "common",
+        "text": "{c, actor}는 입술을 {c, partner}님의 목 가까이에 대되 절대 닿지 않고 2초간 머물러 긴장감을 최고로 끌어올리세요",
+        "target": "목",
+        "pattern": "Hover Kiss",
+        "intensity": "5/10",
+        "duration": "5s"
+},
+{
+        "id": 1046,
+        "level": 1,
+        "gender": "common",
+        "text": "{c, actor}는 허리 뒤로 양손을 가져가 {c, partner}님을 잡아당길 듯 말 듯한 리드감을 만들어주세요",
+        "target": "허리",
+        "pattern": "Lead Pull",
+        "intensity": "4/10",
+        "duration": "7s"
+},
+{
+        "id": 1047,
+        "level": 1,
+        "gender": "common",
+        "text": "{c, actor}는 {c, partner}님의 가슴선 가까이에 손을 가져가 멈춘 뒤 ‘여기 만지고 싶어?’라고 속삭이세요",
+        "target": "가슴",
+        "pattern": "Ask Tease",
+        "intensity": "5/10",
+        "duration": "7s"
+},
+{
+        "id": 1048,
+        "level": 1,
+        "gender": "common",
+        "text": "{c, actor}는 상대의 손을 자신의 허리 가까이 가져가고 천천히 내려놓으며 몸을 자연스럽게 붙이세요",
+        "target": "허리",
+        "pattern": "Hand Guide",
+        "intensity": "4/10",
+        "duration": "8s"
+},
+{
+        "id": 1049,
+        "level": 1,
+        "gender": "common",
+        "text": "{c, actor}는 서로 얼굴을 가까이 대고 숨을 나누다가 일부러 방향을 살짝 회피하며 긴장감을 이어가세요",
+        "target": "입술",
+        "pattern": "Near Avoid",
+        "intensity": "4/10",
+        "duration": "6s"
+},
+{
+        "id": 1050,
+        "level": 1,
+        "gender": "common",
+        "text": "{c, actor}는 손을 {c, partner}님의 골반 가까이에 두고 천천히 손가락으로 원을 그리며 ‘준비됐어?’라고 아주 작게 말하세요",
+        "target": "골반",
+        "pattern": "Circle Heat",
+        "intensity": "5/10",
+        "duration": "8s"
+}
     ],
     "level2Data": [
       {
