@@ -1989,7 +1989,7 @@
        {
         "id": 3003,
         "level": 3,
-        "gender": "common",
+        "gender": "common", 
         "text": "상의 안쪽으로 손을 넣어 허리 쪽 피부를 스치듯 만져 보세요. 손길이 안쪽으로 이어지는 순간 {c, partner}님의 숨이 깊어져요.",
         "target": "허리",
         "pattern": "Inside Touch",
