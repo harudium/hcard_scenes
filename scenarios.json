@@ -1966,185 +1966,509 @@
     ],
     "level3Data": [
       {
-        "id": 301,
+        "id": 4001,
         "level": 3,
-        "gender": "male",
-        "text": "속옷 위로 드러난 상대의 굴곡을 손바닥 전체로 지그시 압박하며, 그녀의 신음이 짙어질 때까지 압력을 높이세요",
-        "target": "음부/엉덩이",
-        "pattern": "Palm Pressure",
+        "gender": "common",
+        "text": "{c, partner}님의 팬티 속으로 손을 넣어 젖어 있는 입구를 손가락으로 천천히 훑으세요. 숨이 흐트러질 때 한 마디만 속삭이세요: '더 원해?'",
+        "target": "보지",
+        "pattern": "Tease Entry",
         "intensity": "8/10",
-        "duration": "2m"
-      },
-      {
-        "id": 302,
+        "duration": "12s"
+       },
+       {
+        "id": 4002,
         "level": 3,
-        "gender": "female",
-        "text": "상대의 바지 위로 팽팽하게 드러난 형태를 손가락 끝으로 따라 그리며, 가장 단단한 끝부분을 손톱으로 가볍게 튕기세요",
-        "target": "성기 위",
-        "pattern": "Tip Tease",
-        "intensity": "8/10",
-        "duration": "1m"
-      },
-      {
-        "id": 303,
-        "level": 3,
-        "gender": "both",
-        "text": "허벅지 안쪽의 가장 연약한 살점을 입술로 깨물듯 당겼다가, 뜨거운 숨을 한꺼번에 내뱉어 신경을 마비시키세요",
-        "target": "허벅지 안쪽",
-        "pattern": "Inner Heat",
-        "intensity": "8/10",
-        "duration": "1m"
-      },
-      {
-        "id": 304,
-        "level": 3,
-        "gender": "female",
-        "text": "유두를 혀끝으로 날카롭게 굴리며, 다른 손으로는 상대의 머리카락을 움켜쥐어 당신의 몸 쪽으로 강하게 밀착시키세요",
-        "target": "유두/머리",
-        "pattern": "Domination",
-        "intensity": "8/10",
-        "duration": "2m"
-      },
-      {
-        "id": 305,
-        "level": 3,
-        "gender": "male",
-        "text": "여성의 둔부를 양손으로 꽉 움켜쥐어 당신의 골반 쪽으로 끌어당기며, 하체의 밀착도를 극한으로 높이세요",
-        "target": "엉덩이/골반",
-        "pattern": "Pelvic Lock",
-        "intensity": "8/10",
-        "duration": "1m"
-      },
-      {
-        "id": 306,
-        "level": 3,
-        "gender": "both",
-        "text": "상대의 속옷 안으로 손을 밀어 넣어 가장 뜨겁고 젖어있는 지점을 손가락 하나로 아주 가볍게 톡톡 두드리며 반응을 즐기세요",
-        "target": "성기",
-        "pattern": "Moisture Tap",
+        "gender": "common",
+        "text": "{c, partner}님의 속옷을 옆으로 밀고 손가락 두 개를 천천히 넣어 올리며 안쪽 벽을 따라 돌려 보세요. 젖은 소리가 나는 순간 손가락을 더 깊게 눌러 주세요.",
+        "target": "보지",
+        "pattern": "Finger Curl",
         "intensity": "9/10",
-        "duration": "1m"
-      },
-      {
-        "id": 307,
+        "duration": "15s"
+       },
+       {
+        "id": 4003,
         "level": 3,
-        "gender": "male",
-        "text": "여성의 속옷을 옆으로 살짝 비껴 내고, 노출된 성기 입구를 당신의 뜨거운 콧김으로 애태우며 천천히 혀를 내미세요",
-        "target": "음부",
-        "pattern": "Edge Tease",
-        "intensity": "9/10",
-        "duration": "2m"
-      },
-      {
-        "id": 308,
-        "level": 3,
-        "gender": "female",
-        "text": "남성의 성기 뿌리 부분을 손가락으로 꽉 쥐어 피가 몰리게 만든 뒤, 끝부분에 고인 애액을 혀끝으로 핥아내세요",
-        "target": "음경",
-        "pattern": "Base Grip",
-        "intensity": "9/10",
-        "duration": "1m"
-      },
-      {
-        "id": 309,
-        "level": 3,
-        "gender": "both",
-        "text": "상대의 전신을 입술로 훑어 내려가며 성기 바로 위 치골 부위에 강한 키스를 남겨 영역을 표시하세요",
-        "target": "치골",
-        "pattern": "Pubic Mark",
-        "intensity": "8/10",
-        "duration": "1m"
-      },
-      {
-        "id": 310,
-        "level": 3,
-        "gender": "male",
-        "text": "여성의 가슴을 한 손으로 모아 쥐고 그 사이 골에 당신의 얼굴을 묻은 채 좌우로 비비며 향기와 온기를 탐닉하세요",
-        "target": "가슴",
-        "pattern": "Cleavage Nuzzle",
-        "intensity": "8/10",
-        "duration": "2m"
-      },
-      {
-        "id": 311,
-        "level": 3,
-        "gender": "female",
-        "text": "남성의 사타구니 라인을 손톱 끝으로 긁으며 올라가 그의 성기를 손바닥으로 감싸 쥐고 지그시 압박하세요",
-        "target": "사타구니/음경",
-        "pattern": "Groin Scratch",
-        "intensity": "9/10",
-        "duration": "1m"
-      },
-      {
-        "id": 312,
-        "level": 3,
-        "gender": "both",
-        "text": "상대의 허벅지를 최대한 넓게 벌리게 하고 그 사이의 공간을 갈구하는 눈빛으로 쳐다보며 천천히 손을 뻗으세요",
-        "target": "허벅지 안쪽",
-        "pattern": "Visual Hunger",
-        "intensity": "8/10",
-        "duration": "1m"
-      },
-      {
-        "id": 313,
-        "level": 3,
-        "gender": "male",
-        "text": "여성의 엉덩이 사이 골을 따라 혀를 깊게 밀어 넣어 위아래로 핥으며 그녀가 엉덩이를 움찔거리는 반응을 즐기세요",
-        "target": "엉덩이",
-        "pattern": "Crack Lick",
-        "intensity": "9/10",
-        "duration": "1m"
-      },
-      {
-        "id": 314,
-        "level": 3,
-        "gender": "female",
-        "text": "남성의 귀 뒤쪽을 깨물며 동시에 그의 바지 안에 손을 넣어 성기의 귀두 부분만 엄지손가락으로 강하게 문지르세요",
-        "target": "귀/귀두",
+        "gender": "common",
+        "text": "{c, partner}님의 클리토리스를 엄지로 원을 그리듯 문지르며 다른 손가락으로 입구를 천천히 두드리세요. 반응이 오는 순간 속도를 두 배로 올려 주세요.",
+        "target": "클리토리스",
         "pattern": "Dual Stim",
         "intensity": "9/10",
-        "duration": "1m"
-      },
-      {
-        "id": 315,
+        "duration": "12s"
+       },
+       {
+        "id": 4004,
         "level": 3,
-        "gender": "both",
-        "text": "상대방의 전신 피부를 혀로 가늘게 선을 긋듯 핥아 올리며 마지막 목적지는 성기가 되도록 서서히 접근하세요",
-        "target": "전신",
-        "pattern": "Long Trail",
+        "gender": "common",
+        "text": "{c, partner}님의 허벅지를 벌려 속옷을 내려주고, 젖은 입구에 혀를 짧게 밀어 넣어 간을 보듯 살짝 맛보세요. 바로 다시 빠져나오며 더 원하게 하세요.",
+        "target": "보지",
+        "pattern": "Taste Tease",
+        "intensity": "7/10",
+        "duration": "10s"
+       },
+       {
+        "id": 4005,
+        "level": 3,
+        "gender": "common",
+        "text": "젖어 흐르는 {c, partner}님의 보지에 손가락을 깊이 넣고 ‘여기 맞지?’라고 말하며 G-스팟을 위쪽으로 꾹 눌러 주세요.",
+        "target": "G-스팟",
+        "pattern": "Spot Press",
+        "intensity": "10/10",
+        "duration": "14s"
+       },
+       {
+        "id": 4006,
+        "level": 3,
+        "gender": "common",
+        "text": "{c, partner}님의 신음이 커질 때 손가락을 빠르게 굽혀 피스톤하듯 움직여 주세요. 허벅지가 떨릴 때까지 리듬을 유지하세요.",
+        "target": "보지",
+        "pattern": "Pulse Drive",
+        "intensity": "10/10",
+        "duration": "12s"
+       },
+       {
+        "id": 4007,
+        "level": 3,
+        "gender": "common",
+        "text": "{c, partner}님의 보지 입구에 자신의 허벅지를 가져다대고 천천히 비벼 삽입하듯 움직이세요. 성기가 아닌 부위로도 충분히 절정 직전까지 갈 수 있는 자극이에요.",
+        "target": "보지",
+        "pattern": "Thigh Insert",
         "intensity": "8/10",
-        "duration": "2m"
-      },
-      {
-        "id": 316,
+        "duration": "15s"
+       },
+       {
+        "id": 4008,
         "level": 3,
-        "gender": "male",
-        "text": "여성의 치골 부위를 당신의 성기로 가볍게 문지르며 삽입 직전의 마찰열을 극대화하세요",
-        "target": "치골/음부",
-        "pattern": "Dry Grind",
+        "gender": "common",
+        "text": "{c, partner}님의 보지에 혀끝을 넣고 천천히 안쪽을 훑은 뒤 바로 클리토리스를 강하게 빨아 보세요. 반응이 즉시 올라올 거예요.",
+        "target": "보지·클리토리스",
+        "pattern": "Tongue Switch",
+        "intensity": "8/10",
+        "duration": "11s"
+       },
+       {
+        "id": 4009,
+        "level": 3,
+        "gender": "common",
+        "text": "{c, partner}님의 보지 안에 손가락을 넣은 채 다른 손으로 가슴을 감싸고 젖꼭지를 눌러 보세요. 두 자극이 겹치는 순간 몸이 크게 젖혀질 거예요.",
+        "target": "보지·가슴",
+        "pattern": "Dual Arc",
         "intensity": "9/10",
-        "duration": "1m"
-      },
-      {
-        "id": 317,
+        "duration": "15s"
+       },
+       {
+        "id": 4010,
+        "level": 3,
+        "gender": "common",
+        "text": "{c, partner}님의 팬티를 완전히 벗겨 무릎 위에 걸치게 하고, 젖어 흐르는 입구에 손바닥을 대어 열을 잠시 느끼게 하세요. 그 후 단번에 두 손가락을 밀어 넣으세요.",
+        "target": "보지",
+        "pattern": "Warm Sink",
+        "intensity": "9/10",
+        "duration": "13s"
+       },
+       
+       {
+        "id": 4011,
+        "level": 3,
+        "gender": "common",
+        "text": "{c, partner}님의 허벅지를 잡고 보지 입구에 자신의 배를 밀착해 천천히 눌러 주세요. 삽입은 아니지만 안쪽으로 압박되는 느낌을 주어 몸을 떨리게 만들 거예요.",
+        "target": "보지",
+        "pattern": "Belly Press",
+        "intensity": "8/10",
+        "duration": "12s"
+       },
+       {
+        "id": 4012,
+        "level": 3,
+        "gender": "common",
+        "text": "{c, partner}님의 보지에 손가락을 넣은 상태에서 손목을 비틀듯 회전시켜 벽을 더 넓게 자극하세요.",
+        "target": "보지",
+        "pattern": "Twist Stroke",
+        "intensity": "9/10",
+        "duration": "10s"
+       },
+       {
+        "id": 4013,
+        "level": 3,
+        "gender": "common",
+        "text": "{c, partner}님의 가슴을 입으로 빨며 손가락을 보지 안에서 강하게 굴곡시키세요. 두 자극이 겹치면 다리가 떨리기 시작할 거예요.",
+        "target": "가슴·보지",
+        "pattern": "Mouth & Curl",
+        "intensity": "9/10",
+        "duration": "14s"
+       },
+       {
+        "id": 4014,
+        "level": 3,
+        "gender": "common",
+        "text": "{c, partner}님의 클리토리스를 혀로 빠르게 튕기고, 동시에 손가락을 깊이 넣어 안쪽에서 위쪽으로 연속적으로 눌러 주세요.",
+        "target": "클리토리스·보지",
+        "pattern": "Tap & Press",
+        "intensity": "8/10",
+        "duration": "12s"
+       },
+       {
+        "id": 4015,
+        "level": 3,
+        "gender": "common",
+        "text": "{c, partner}님의 보지에 손가락을 넣고 엄지를 이용해 클리를 동시에 자극하세요. 두 자극이 맞물리면 절정 직전까지 올라갈 거예요.",
+        "target": "보지·클리토리스",
+        "pattern": "Dual Arc",
+        "intensity": "9/10",
+        "duration": "12s"
+       },
+       {
+        "id": 4016,
+        "level": 3,
+        "gender": "common",
+        "text": "{c, partner}님의 보지 안으로 손가락을 천천히 빼며 흘러나오는 애액을 허벅지를 따라 발등까지 흘러내리게 하세요. 흘러내리는 느낌이 더욱 자극이 될 거예요.",
+        "target": "보지",
+        "pattern": "Wet Drag",
+        "intensity": "8/10",
+        "duration": "10s"
+       },
+       {
+        "id": 4017,
+        "level": 3,
+        "gender": "common",
+        "text": "{c, partner}님의 항문 바깥을 손가락으로 부드럽게 원을 그리듯 자극한 뒤, 보지 안의 손가락을 더 빠르게 움직여 이중 감각을 주세요.",
+        "target": "항문·보지",
+        "pattern": "Outer Dual",
+        "intensity": "9/10",
+        "duration": "13s"
+       },
+       {
+        "id": 4018,
+        "level": 3,
+        "gender": "common",
+        "text": "{c, partner}님의 허벅지를 벌려 입술을 보지 바로 위에 가져가 뜨거운 숨을 뿜은 뒤, 클리토리스에 혀를 가볍게 터치하세요.",
+        "target": "클리토리스",
+        "pattern": "Warm Breath Kiss",
+        "intensity": "7/10",
+        "duration": "10s"
+       },
+       {
+        "id": 4019,
+        "level": 3,
+        "gender": "common",
+        "text": "{c, partner}님의 보지에 한 손가락만 넣어 깊이를 탐색하고, 다른 손으로 음순을 벌려 더 민감하게 느껴지게 하세요.",
+        "target": "보지",
+        "pattern": "Explore Spread",
+        "intensity": "8/10",
+        "duration": "11s"
+       },
+       {
+        "id": 4020,
+        "level": 3,
+        "gender": "common",
+        "text": "{c, partner}님의 몸을 눕힌 뒤 보지 위에 자신의 가슴을 밀착해 눌러 보세요. 실제 삽입은 아니지만 깊은 압박감이 강한 자극이 될 거예요.",
+        "target": "보지",
+        "pattern": "Chest Sink",
+        "intensity": "8/10",
+        "duration": "12s"
+       },
+       
+       {
+        "id": 4021,
         "level": 3,
         "gender": "female",
-        "text": "남성을 눕히고 그 위에 올라타 성기 입구를 당신의 음부로 살짝 누르며 그가 애원할 때까지 삽입을 늦추세요",
-        "target": "성기 입구",
-        "pattern": "Seating Denial",
-        "intensity": "9/10",
-        "duration": "2m"
-      },
-      {
-        "id": 318,
+        "text": "{m, partner}님의 펜이스를 손으로 잡고 귀두 아래를 혀로 천천히 핥아 주세요. 깊은 오랄이 아니어도 충분히 허리가 젖혀질 거예요.",
+        "target": "페니스",
+        "pattern": "Tip Lick",
+        "intensity": "7/10",
+        "duration": "10s"
+       },
+       {
+        "id": 4022,
         "level": 3,
-        "gender": "both",
-        "text": "서로의 하체를 강하게 결착시킨 채, 상대의 귓가에 젖은 숨소리로 '원해?'라고 단 한 마디만 내뱉으세요",
-        "target": "전신 결합",
-        "pattern": "Point Blank",
+        "gender": "female",
+        "text": "{m, partner}님의 성기를 손으로 잡고 아래에서 위로 빠르게 비벼 쿠퍼액을 더 흘러나오게 하세요.",
+        "target": "페니스",
+        "pattern": "Shaft Rub",
+        "intensity": "8/10",
+        "duration": "10s"
+       },
+       {
+        "id": 4023,
+        "level": 3,
+        "gender": "female",
+        "text": "{m, partner}님의 귀두를 혀로 짧게 터치하고, 손으로 뿌리를 강하게 조이며 허벅지 사이에 자신의 보지를 눌러 주세요.",
+        "target": "페니스·보지",
+        "pattern": "Touch & Press",
+        "intensity": "8/10",
+        "duration": "12s"
+       },
+       {
+        "id": 4024,
+        "level": 3,
+        "gender": "female",
+        "text": "손으로 {m, partner}님의 성기를 단단히 잡은 뒤, 자신의 허벅지 사이로 그의 성기를 끼우고 앞뒤로 문질러 주세요.",
+        "target": "허벅지·페니스",
+        "pattern": "Thigh Slide",
+        "intensity": "8/10",
+        "duration": "13s"
+       },
+       {
+        "id": 4025,
+        "level": 3,
+        "gender": "female",
+        "text": "오랄을 하지 않아도 좋아요. 대신 {m, partner}님의 성기를 가슴 사이에 끼워 위아래로 천천히 밀어 올려 보세요.",
+        "target": "가슴·페니스",
+        "pattern": "Breast Hold",
+        "intensity": "8/10",
+        "duration": "11s"
+       },
+       {
+        "id": 4026,
+        "level": 3,
+        "gender": "female",
+        "text": "{m, partner}님의 골반을 잡고 허리를 앞으로 당겨 스스로의 보지 입구에 닿기 직전까지 계속 움직이게 해 주세요.",
+        "target": "보지·골반",
+        "pattern": "Almost Entry",
         "intensity": "9/10",
-        "duration": "30s"
-      }
+        "duration": "12s"
+       },
+       {
+        "id": 4027,
+        "level": 3,
+        "gender": "female",
+        "text": "{m, partner}님의 성기를 손으로 비비며 허벅지 안쪽으로 자신의 젖은 팬티를 문지르세요.",
+        "target": "페니스·허벅지",
+        "pattern": "Wet Grind",
+        "intensity": "8/10",
+        "duration": "10s"
+       },
+       {
+        "id": 4028,
+        "level": 3,
+        "gender": "female",
+        "text": "{m, partner}님의 배 위에 자신의 보지를 올려 천천히 눌러 보세요. 성기는 닿지 않지만 압박감만으로도 충분히 흥분할 거예요.",
+        "target": "보지·복부",
+        "pattern": "Belly Ride",
+        "intensity": "7/10",
+        "duration": "12s"
+       },
+       {
+        "id": 4029,
+        "level": 3,
+        "gender": "female",
+        "text": "{m, partner}님의 성기가 서 있을 때, 손가락으로 귀두 아래를 빠르게 튕기며 다른 손으로 고환을 부드럽게 감싸 주세요.",
+        "target": "페니스·고환",
+        "pattern": "Dual Tease",
+        "intensity": "8/10",
+        "duration": "11s"
+       },
+       {
+        "id": 4030,
+        "level": 3,
+        "gender": "female",
+        "text": "{m, partner}님의 성기를 허벅지 안쪽에 끼워 밀착하고, 자신이 먼저 허벅지를 조이며 리듬을 만들어 주세요.",
+        "target": "허벅지·페니스",
+        "pattern": "Inner Hold",
+        "intensity": "8/10",
+        "duration": "12s"
+       },
+       
+       {
+        "id": 4031,
+        "level": 3,
+        "gender": "male",
+        "text": "{f, partner}님의 팬티 안으로 손을 넣어 젖은 음순을 벌리고 입구를 천천히 눌러 주세요. ‘여기… 들어가고 싶지?’라고 속삭여 보세요.",
+        "target": "보지",
+        "pattern": "Entry Press",
+        "intensity": "9/10",
+        "duration": "12s"
+       },
+       {
+        "id": 4032,
+        "level": 3,
+        "gender": "male",
+        "text": "손가락 두 개를 {f, partner}님의 보지에 깊게 넣고 G-스팟을 위로 강하게 누르며 허벅지를 비트는 것처럼 움직여 주세요.",
+        "target": "보지·G-스팟",
+        "pattern": "Drive Curl",
+        "intensity": "10/10",
+        "duration": "14s"
+       },
+       {
+        "id": 4033,
+        "level": 3,
+        "gender": "male",
+        "text": "{f, partner}님의 클리토리스를 손가락으로 빠르게 문지르며 안쪽에서 손가락을 굽혀 리듬을 맞추어 주세요.",
+        "target": "클리토리스·보지",
+        "pattern": "Rhythm Dual",
+        "intensity": "9/10",
+        "duration": "12s"
+       },
+       {
+        "id": 4034,
+        "level": 3,
+        "gender": "male",
+        "text": "{f, partner}님의 항문 바깥을 손가락으로 부드럽게 자극하며 보지 안 손가락을 더 깊게 찔러 주세요.",
+        "target": "항문·보지",
+        "pattern": "Outer In",
+        "intensity": "8/10",
+        "duration": "13s"
+       },
+       {
+        "id": 4035,
+        "level": 3,
+        "gender": "male",
+        "text": "{f, partner}님의 보지에 손가락을 넣고 빠르게 움직이며 허리를 자신의 몸으로 끌어당겨 압박을 더해 주세요.",
+        "target": "보지·골반",
+        "pattern": "Press Stroke",
+        "intensity": "9/10",
+        "duration": "11s"
+       },
+       {
+        "id": 4036,
+        "level": 3,
+        "gender": "male",
+        "text": "{f, partner}님의 보지에 자신의 무릎을 천천히 밀착해 살짝 삽입되듯 압박하세요. 성기 없이도 충분히 절정 직전까지 갈 수 있어요.",
+        "target": "보지",
+        "pattern": "Knee Insert",
+        "intensity": "8/10",
+        "duration": "13s"
+       },
+       {
+        "id": 4037,
+        "level": 3,
+        "gender": "male",
+        "text": "{f, partner}님의 젖꼭지를 입으로 물고 살짝 당기며 보지 안 손가락의 속도를 점점 올려 주세요.",
+        "target": "가슴·보지",
+        "pattern": "Bite & Curl",
+        "intensity": "9/10",
+        "duration": "14s"
+       },
+       {
+        "id": 4038,
+        "level": 3,
+        "gender": "male",
+        "text": "손가락으로 {f, partner}님의 보지를 넓게 벌린 뒤 클리토리스에 혀를 짧게 터치하세요. 금방 허리가 들썩일 거예요.",
+        "target": "보지·클리토리스",
+        "pattern": "Open & Lick",
+        "intensity": "8/10",
+        "duration": "11s"
+       },
+       {
+        "id": 4039,
+        "level": 3,
+        "gender": "male",
+        "text": "{f, partner}님의 허벅지를 들어 올려 보지에 손가락을 깊이 넣고 빠르게 피스톤하듯 움직이세요. 다리가 떨리는 게 느껴질 거예요.",
+        "target": "보지",
+        "pattern": "Hard Pulse",
+        "intensity": "10/10",
+        "duration": "12s"
+       },
+       {
+        "id": 4040,
+        "level": 3,
+        "gender": "male",
+        "text": "{f, partner}님의 보지에 손을 넣고 안쪽 벽을 두 손가락으로 벌려 자극하며, 동시에 클리토리스를 빠르게 눌러 보세요.",
+        "target": "보지·클리토리스",
+        "pattern": "Spread & Press",
+        "intensity": "10/10",
+        "duration": "14s"
+       },
+       
+       {
+        "id": 4041,
+        "level": 3,
+        "gender": "common",
+        "text": "{c, partner}님의 보지에 손가락을 넣고 안쪽에서 위아래로 강하게 문질러 주세요. 절정 직전까지 금방 올라갈 거예요.",
+        "target": "보지",
+        "pattern": "UpDown Rush",
+        "intensity": "10/10",
+        "duration": "12s"
+       },
+       {
+        "id": 4042,
+        "level": 3,
+        "gender": "common",
+        "text": "{c, partner}님의 보지가 충분히 젖었을 때 손가락을 빼고 자신의 허벅지를 대신 밀어 넣듯 비벼 주세요.",
+        "target": "보지",
+        "pattern": "Replace Thigh",
+        "intensity": "8/10",
+        "duration": "12s"
+       },
+       {
+        "id": 4043,
+        "level": 3,
+        "gender": "common",
+        "text": "{c, partner}님의 항문 근처를 손가락으로 천천히 눌러주며 보지 안의 손가락을 굽혀 더 깊이 자극하세요.",
+        "target": "항문·보지",
+        "pattern": "Double Spot",
+        "intensity": "9/10",
+        "duration": "13s"
+       },
+       {
+        "id": 4044,
+        "level": 3,
+        "gender": "common",
+        "text": "{c, partner}님의 보지에 손가락을 넣고 빠르게 진동하듯 흔들어 주세요. 클리토리스까지 울리는 느낌이 날 거예요.",
+        "target": "보지",
+        "pattern": "Shake Pulse",
+        "intensity": "9/10",
+        "duration": "11s"
+       },
+       {
+        "id": 4045,
+        "level": 3,
+        "gender": "common",
+        "text": "{c, partner}님의 다리를 벌리고 보지 안쪽을 혀로 가볍게 훑어주세요. 오랄은 짧게지만 충분히 깊은 자극이 될 거예요.",
+        "target": "보지",
+        "pattern": "Short Lick",
+        "intensity": "7/10",
+        "duration": "8s"
+       },
+       {
+        "id": 4046,
+        "level": 3,
+        "gender": "common",
+        "text": "{c, partner}님의 보지 안으로 손가락을 깊게 밀어 넣고, 허리를 들어올려 리듬을 스스로 맞추게 도와주세요.",
+        "target": "보지",
+        "pattern": "Self-Thrust",
+        "intensity": "9/10",
+        "duration": "12s"
+       },
+       {
+        "id": 4047,
+        "level": 3,
+        "gender": "common",
+        "text": "{c, partner}님의 보지에 손가락을 넣은 채 가슴 위에 올라타고, 몸을 천천히 비틀어 압박을 더해 주세요.",
+        "target": "보지·가슴",
+        "pattern": "Body Press",
+        "intensity": "8/10",
+        "duration": "13s"
+       },
+       {
+        "id": 4048,
+        "level": 3,
+        "gender": "common",
+        "text": "{c, partner}님의 음순을 벌리고 손가락을 깊게 찔러 넣으며 클리토리스를 빠르게 문지르세요. 절정 직전까지 강하게 밀어붙이세요.",
+        "target": "보지·클리토리스",
+        "pattern": "Full Assault",
+        "intensity": "10/10",
+        "duration": "14s"
+       },
+       {
+        "id": 4049,
+        "level": 3,
+        "gender": "common",
+        "text": "{c, partner}님의 보지를 손바닥으로 강하게 눌러주고, 입구를 엄지로 원을 그리듯 비틀어주세요. 단숨에 허리가 떨릴 거예요.",
+        "target": "보지",
+        "pattern": "Palm Grind",
+        "intensity": "9/10",
+        "duration": "11s"
+       },
+       {
+        "id": 4050,
+        "level": 3,
+        "gender": "common",
+        "text": "{c, partner}님의 보지에 두 손가락을 동시에 넣고 안쪽에서 벌리듯 움직이며 대신 ‘넣어줘…’라는 말을 유도해 보세요.",
+        "target": "보지",
+        "pattern": "Spread Drive",
+        "intensity": "10/10",
+        "duration": "14s"
+       }
     ]
   },
   "legend": {
